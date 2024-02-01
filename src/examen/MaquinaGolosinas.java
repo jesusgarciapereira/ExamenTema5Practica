@@ -31,7 +31,6 @@ public class MaquinaGolosinas {
 	 * Tabla unidimensional con los nombres de las golosinas vendidas (inicialmente vacia)
 	 */
 	static int ventas[] = new int[0];
-
 	/**
 	 * Atributo con el precio total de las ventas de la maquina
 	 */
